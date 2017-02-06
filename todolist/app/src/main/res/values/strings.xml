@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="aff">aff</string>
+    <string name="createTaskTitle">Create your task</string>
+    <string name="name">Name of your task</string>
+    <string name="description">Description of your task</string>
+    <string name="date">Task due date</string>
+    <string name="editTaskTitle">Edit your task</string>
+</resources>
